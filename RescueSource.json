@@ -1,5 +1,21 @@
 [
   {
+    "StreetName": [ "1. Maija iela" ],
+	"Image": "https://github.com/VasilijBoichuk/FindAndRescueImages/blob/main/maija.png",
+    "Route": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=56.54280%2C27.71850%3B56.54530%2C27.72520#map=17/56.54404/27.72197&layers=P",
+    "Details": "Ielas sākums no veikala \"ŪDENS AKADĒMIJA\" līdz ezeram",
+    "Latitude": "56.5453",
+    "Longitude": "27.7252"
+  },
+  {
+    "StreetName": [ "18. Novembra iela" ],
+	"Image": "https://github.com/VasilijBoichuk/FindAndRescueImages/blob/main/novembra.png",
+    "Route": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=56.54285%2C27.71850%3B56.54200%2C27.71348#map=18/56.54300/27.71625&layers=P",
+    "Details": "Ielas sākums no Parku ielas pie veikala \"MAXIMA\"(lielā) līdz pilsētas baseinam",
+    "Latitude": "56.542",
+    "Longitude": "27.71348"
+  },
+  {
     "StreetName": [ "Andreja Upīša iela", "A. Upīša iela" ],
     "Image": "https://github.com/VasilijBoichuk/FindAndRescueImages/blob/main/upisa.png",
     "Route": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=56.54287%2C27.71848%3B56.54586%2C27.71619",
