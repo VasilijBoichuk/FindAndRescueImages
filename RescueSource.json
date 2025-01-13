@@ -1,7 +1,7 @@
 [
   {
     "StreetName": [ "1. Maija iela" ],
-    "Image": "https://github.com/VasilijBoichuk/FindAndRescueImages/blob/main/dagdas.png?raw=true",
+    "Image": "https://github.com/VasilijBoichuk/FindAndRescueImages/blob/main/maija.png?raw=true",
     "Route": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=56.54280%2C27.71850%3B56.54530%2C27.72520#map=17/56.54404/27.72197&layers=P",
     "Details": "Ielas sākums no veikala \"ŪDENS AKADĒMIJA\" līdz ezeram",
     "Latitude": "56.5453",
@@ -17,7 +17,7 @@
   },
   {
     "StreetName": [ "Andreja Upīša iela", "A. Upīša iela" ],
-    "Image": "https://github.com/VasilijBoichuk/FindAndRescueImages/blob/main/upisa.png",
+    "Image": "https://github.com/VasilijBoichuk/FindAndRescueImages/blob/main/upisa.png?raw=true",
     "Route": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=56.54287%2C27.71848%3B56.54586%2C27.71619",
     "Details": "Pie azartspēļu zāles \"Džokers\"",
     "Latitude": "56.54586",
