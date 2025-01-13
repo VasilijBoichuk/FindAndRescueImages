@@ -169,7 +169,7 @@
   },
   {
     "StreetName": [ "Krišjāņa Barona iela", "Kr. Barona iela" ],
-    "Image": "https://github.com/VasilijBoichuk/FindAndRescueImages/blob/main/krisjana.png?raw=true",
+    "Image": "https://github.com/VasilijBoichuk/FindAndRescueImages/blob/main/barona.png?raw=true",
     "Route": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=56.54287%2C27.71848%3B56.54605%2C27.71810#map=17/56.54446/27.71850&layers=P",
     "Details": "Ielas sākums no Skolas ielas līdz kapiem",
     "Latitude": "56.54605",
